@@ -1,0 +1,41 @@
+# Secrets — never commit
+.env
+*.env
+*.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# ChromaDB data (large binary files)
+data/chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Claude Code
+.claude/
+
+# Accidental pip install artifacts
+=*

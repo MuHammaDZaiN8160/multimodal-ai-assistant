@@ -1,0 +1,28 @@
+Subscription and Recurring Service Billing Guide
+
+STREAMING SERVICES
+Netflix: Monthly subscription for video streaming. Plans range from Standard with ads (~$7/month) to Premium (~$23/month). Charges appear as "NETFLIX.COM" or "Netflix" on statements. Netflix charges on the same date each month corresponding to the original sign-up date.
+
+Spotify: Monthly music streaming subscription. Plans include Free (ad-supported), Individual (~$11/month), Duo (~$15/month), and Family (~$17/month). Charges appear as "Spotify" or "SPOTIFY P" on statements.
+
+Amazon Prime: Annual or monthly subscription that includes free two-day shipping, Prime Video, Prime Music, and other benefits. Annual fee (~$139/year) or monthly (~$15/month). Charges appear as "AMAZON PRIME" on statements.
+
+Disney+: Monthly or annual subscription for Disney, Marvel, Star Wars, and National Geographic content. Monthly plan (~$14/month for ad-free). Charges appear as "DISNEY PLUS" on statements.
+
+GROCERY STORES
+Grocery store purchases represent in-store or online food and household item purchases. Common chains: Walmart, Kroger, Safeway, Whole Foods (Amazon Fresh). Charges reflect the total basket value at checkout including applicable sales tax on non-food items.
+
+GROCERY DELIVERY SERVICES
+Instacart, DoorDash, Uber Eats, and similar services charge for groceries or restaurant food plus a delivery fee and service fee. Tips may be included. Charges appear with the platform name plus the merchant name.
+
+UTILITIES AND TELECOM
+Internet, cable, phone, and utility services bill monthly. Charges may include base service, equipment rental, taxes, and regulatory fees. Paper billing fees may apply if you opt out of paperless billing.
+
+GYM AND FITNESS
+Gym memberships (Planet Fitness, Equinox, Peloton) charge monthly or annually. Charges appear with the gym name. Cancellation policies vary; some require 30–60 days notice to stop recurring charges.
+
+SOFTWARE SUBSCRIPTIONS
+Microsoft 365: ~$100/year or ~$10/month for personal, ~$130/year for family. Adobe Creative Cloud: ~$55/month all apps. Charges appear with vendor names.
+
+HOW TO CANCEL UNWANTED SUBSCRIPTIONS
+Review all recurring charges monthly. To cancel, contact the service provider directly or use virtual card numbers with spending limits to prevent unauthorized renewals. Many services offer refunds within 30 days if you did not intend to renew.

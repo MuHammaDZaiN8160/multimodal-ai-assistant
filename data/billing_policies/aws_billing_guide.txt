@@ -1,0 +1,28 @@
+Amazon Web Services (AWS) Billing Reference Guide
+
+AWS EC2 USAGE
+Amazon EC2 (Elastic Compute Cloud) charges are for virtual server instances. You are billed per hour or per second (depending on instance type) for the time an instance is running. EC2 usage charges appear on your credit card statement as "Amazon Web Services EC2 Usage." Common causes include running development or production servers, batch processing jobs, or auto-scaling clusters.
+
+EC2 INSTANCE TYPES AND PRICING
+On-Demand instances are billed by the second with a one-minute minimum. Reserved instances offer discounted pricing in exchange for a one- or three-year commitment. Spot instances are unused capacity available at a discount but can be interrupted. Savings Plans offer flexible pricing in exchange for a committed spend per hour.
+
+AWS S3 STORAGE
+Amazon S3 (Simple Storage Service) charges are based on the amount of data stored (GB-months), number of requests (GET, PUT, DELETE), and data transfer out of AWS. S3 charges appear as "Amazon Web Services S3" on statements.
+
+AWS RDS
+Amazon RDS (Relational Database Service) charges cover managed database instances (MySQL, PostgreSQL, etc.), storage, backup storage, and data transfer. RDS charges appear as "Amazon Web Services RDS."
+
+AWS LAMBDA
+AWS Lambda charges are based on the number of requests and the duration of function execution. The first 1 million requests per month are free under the AWS Free Tier. Lambda charges appear as "Amazon Web Services Lambda."
+
+AWS DATA TRANSFER
+Data transfer charges apply when data moves out of AWS or between AWS regions. Inbound data transfer is generally free. Outbound data transfer is charged per GB based on volume tiers.
+
+AWS FREE TIER
+New AWS accounts receive 12 months of free tier access for limited usage of services including EC2 (750 hours/month of t2.micro), S3 (5 GB), and RDS (750 hours/month). Charges occur when free tier limits are exceeded.
+
+AWS CONSOLIDATED BILLING
+Organizations using AWS Organizations consolidate billing across multiple accounts. Charges on a credit card statement may represent usage across all linked accounts.
+
+HOW TO INVESTIGATE AWS CHARGES
+Log into the AWS Management Console → Billing & Cost Management → Cost Explorer. Filter by service, date range, and linked account to identify specific resource charges. Enable AWS Cost Anomaly Detection to receive alerts when spending spikes unexpectedly.
